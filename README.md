@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Saundary Pareek👋
 
-<!--
-**saundarypareek-analytics/saundarypareek-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst currently learning Excel, SQL, and Statistics.
 
-Here are some ideas to get you started:
+Interested in data analysis, problem solving, and building practical skills through real-world learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Excel
+- SQL
+- Statistics
+
+## Currently Learning
+- Data Cleaning
+- Data Analysis Basics
+- Dashboard Fundamentals
+
+## Goals
+- Build Data Analytics Projects
+- Improve Analytical Skills
+- Learn Power BI
