@@ -1,4 +1,4 @@
-# Hi, I'm Saundary Pareek👋
+# Hi, I'm Saundary Pareek
 
 Aspiring Data Analyst currently learning Excel, SQL, and Statistics.
 
