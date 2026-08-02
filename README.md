@@ -1,7 +1,7 @@
 # Hi there, I'm Saundary Pareek 👋
 ### 📊 Data Analyst | Business Intelligence & Analytics Specialist
 
-Driven Data Analyst passionate about translating complex transactional and market dataset into actionable business insights. Experienced in building automated data pipelines, executing statistical & cohort analysis, and designing interactive executive dashboards using **Python, SQL, and Power BI**.
+Driven Data Analyst passionate about translating complex transactional and market datasets into actionable business insights. Experienced in building automated data pipelines, executing statistical & cohort analysis, and designing interactive executive dashboards using **Python, SQL, and Power BI**.
 
 ---
 
@@ -18,7 +18,7 @@ Driven Data Analyst passionate about translating complex transactional and marke
 
 ## 🚀 Featured Analytics Projects
 
-### 1. [📊 User Retention & Customer Churn Analytics]([INSERT_PROJECT_1_GITHUB_LINK_HERE])
+### 1. 📊 [User Retention & Customer Churn Analytics](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics)
 > **Tech Stack:** Python (Pandas, NumPy), SQL, Power BI, Advanced DAX  
 > **Key Focus:** Customer Retention, RFM Segmentation, Supply Chain & Logistics Delay Analysis
 
@@ -29,7 +29,16 @@ Driven Data Analyst passionate about translating complex transactional and marke
 
 ---
 
-### 2. [💼 Tech Workforce & Hiring Market Trends Analytics]([INSERT_PROJECT_2_GITHUB_LINK_HERE])
+## 📈 Dashboard Previews
+
+| User Retention Dashboard (Page 1) | User Retention Dashboard (Page 2) |
+| :---: | :---: |
+| [![User Retention Page 1](https://raw.githubusercontent.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics/main/User%20Retention,%20Churn%20Risk%20%26%20Supply%20Chain%20Analytics_1.png)](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) | [![User Retention Page 2](https://raw.githubusercontent.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics/main/User%20Retention,%20Churn%20Risk%20%26%20Supply%20Chain%20Analytics_2.png)](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) |
+| [🔗 Open Full Project Repository](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) | [🔗 Open Full Project Repository](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) |
+
+---
+
+### 2. 💼 [Tech Workforce & Hiring Market Trends Analytics](https://github.com/saundarypareek-analytics/Tech-Workforce-Hiring-Market-Trends)
 > **Tech Stack:** SQL (Multi-table Joins, Aggregations), Python (Pandas), Power BI, Advanced Excel  
 > **Key Focus:** Global Compensation Benchmarks, Tool Stack Pay Parity, Remote Work Adoption
 
@@ -40,15 +49,10 @@ Driven Data Analyst passionate about translating complex transactional and marke
 
 ---
 
-## 📈 Featured Visuals & Interactive Reports
-
-| User Retention Dashboard | Workforce Market Trends |
-| :---: | :---: |
-| ![User Retention Overview]([https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics]) | ![Tech Workforce Trends]([https://github.com/saundarypareek-analytics/Tech-Workforce-Hiring-Market-Trends]) |
-
----
+## 📫 Connect & Collaborate
+- 💼 **GitHub Profile:** [saundarypareek-analytics](https://github.com/saundarypareek-analytics)
 
 ## 📫 Connect & Collaborate
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/saundary-pareek/]
 - 📧 **Email:** [saundarypareek74@gmail.com]
-- 📁 **Portfolio Repository:** [Link to Main Repo/GitHub]
+- 📁 **Portfolio Repository:** [saundarypareek-analytics](https://github.com/saundarypareek-analytics)
