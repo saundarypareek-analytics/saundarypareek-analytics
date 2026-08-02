@@ -28,15 +28,15 @@ Driven Data Analyst passionate about translating complex transactional and marke
 * **Business Impact:** Identified key operational drivers behind churn, establishing actionable re-engagement strategies to recover high-value accounts.
 
 ---
+---
+## 📈 Portfolio Previews
 
-## 📈 Dashboard Previews
-
-| User Retention Dashboard (Page 1) | User Retention Dashboard (Page 2) |
+### 📊 Project 1: User Retention & Customer Churn Analytics
+| Page 1 Overview | Page 2 Key Takeaways |
 | :---: | :---: |
 | [![User Retention Page 1](https://raw.githubusercontent.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics/main/User%20Retention,%20Churn%20Risk%20%26%20Supply%20Chain%20Analytics_1.png)](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) | [![User Retention Page 2](https://raw.githubusercontent.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics/main/User%20Retention,%20Churn%20Risk%20%26%20Supply%20Chain%20Analytics_2.png)](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) |
-| [🔗 Open Full Project Repository](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) | [🔗 Open Full Project Repository](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) |
+| [🔗 Open Full Retention Repository](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) | [🔗 Open Full Retention Repository](https://github.com/saundarypareek-analytics/User-Retention-Customer-Churn-Analytics) |
 
----
 
 ### 2. 💼 [Tech Workforce & Hiring Market Trends Analytics](https://github.com/saundarypareek-analytics/Tech-Workforce-Hiring-Market-Trends)
 > **Tech Stack:** SQL (Multi-table Joins, Aggregations), Python (Pandas), Power BI, Advanced Excel  
@@ -49,8 +49,41 @@ Driven Data Analyst passionate about translating complex transactional and marke
 
 ---
 
-## 📫 Connect & Collaborate
-- 💼 **GitHub Profile:** [saundarypareek-analytics](https://github.com/saundarypareek-analytics)
+### 3. 📱 [Mobile Sales PowerBI Dashboard](https://github.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard)
+> **Tech Stack:** Power BI, Advanced DAX, Data Modeling, Excel / CSV Data Pipelines  
+> **Key Focus:** Retail Analytics, Sales Performance Tracking, Regional & Brand Share Analysis
+
+* **Interactive Retail Reporting:** Designed and deployed a dynamic Power BI report to track core retail KPIs including total units sold, sales revenue, average price points, and regional market distribution.
+* **Advanced Data Modeling & DAX:** Created customized DAX measures for month-over-month (MoM) growth calculations, brand performance benchmarking, and payment method share analytics.
+* **Business Impact:** Enabled clear visibility into top-performing mobile brands, model popularity, and underperforming geographic territories to drive inventory allocation and marketing decisions.
+
+---
+
+### 📱 Project 3: Mobile Sales PowerBI Dashboard
+| Dashboard View 1 | Dashboard View 2 | Dashboard View 3 |
+| :---: | :---: | :---: |
+| [![Mobile Sales View 1](https://raw.githubusercontent.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard/main/My%20Mobile%20Sales%20Dashboard.png)](https://github.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard) | [![Mobile Sales View 2](https://raw.githubusercontent.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard/main/My%20Mobile%20Sales%20Dashboard%202.png)](https://github.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard) | [![Mobile Sales View 3](https://raw.githubusercontent.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard/main/My%20Mobile%20Sales%20Dashboard%203.png)](https://github.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard) |
+| [🔗 View Mobile Sales Repo](https://github.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard) | [🔗 View Mobile Sales Repo](https://github.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard) | [🔗 View Mobile Sales Repo](https://github.com/saundarypareek-analytics/Mobile-Sales-PowerBI-Dashboard) |
+
+---
+
+### 4. 🛒 [Shopify Snowflake PowerBI Analytics Pipeline](https://github.com/saundarypareek-analytics/shopify-snowflake-powerbi)
+> **Tech Stack:** Shopify API Data Modeling, Snowflake Cloud Data Warehouse, SQL, Power BI, Advanced DAX  
+> **Key Focus:** E-commerce Enterprise Analytics, Cloud Data Pipeline, Order Fulfillment & Sales Intelligence
+
+* **Cloud Data Architecture:** Designed an enterprise-grade analytics pipeline structure modeling Shopify transactional data inside **Snowflake Data Warehouse** for high-volume data ingestion.
+* **SQL & Data Modeling:** Structured multi-dimensional schema (Fact & Dimension tables) using SQL queries to optimize analytical query execution speed.
+* **Executive Dashboarding:** Built an interactive Power BI dashboard tracking real-time sales trends, order status distributions, regional revenue, and customer acquisition metrics.
+* **Business Impact:** Delivered centralized visibility into operational e-commerce performance, reducing reporting latency and enabling data-driven inventory decisions.
+
+---
+
+#### 📈 Project Preview
+
+| Shopify Analytics Dashboard Overview |
+| :---: |
+| [![Shopify Snowflake PowerBI Dashboard](https://raw.githubusercontent.com/saundarypareek-analytics/shopify-snowflake-powerbi/main/image_6ad275.png)](https://github.com/saundarypareek-analytics/shopify-snowflake-powerbi) |
+| [🔗 View Full Shopify-Snowflake-PowerBI Repository](https://github.com/saundarypareek-analytics/shopify-snowflake-powerbi) |
 
 ## 📫 Connect & Collaborate
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/saundary-pareek/]
